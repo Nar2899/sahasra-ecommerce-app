@@ -1,0 +1,6 @@
+{
+  "name": "Sahasra — Sarees & Heritage Jewellery",
+  "description": "Headless luxury e-commerce storefront for handcrafted South Indian sarees, festive gift hampers, and temple jewellery, powered by a React frontend, Stripe payment gateway, and high-concurrency Spring Boot order architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
